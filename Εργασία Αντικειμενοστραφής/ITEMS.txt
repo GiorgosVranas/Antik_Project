@@ -1,0 +1,5 @@
+1   Karekla grafeiou	100
+2   Grafeio             350
+3   Monada H/Y         500
+4   Lamba grafeiou      20
+5   Bibliothiki         80
